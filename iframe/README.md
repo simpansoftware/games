@@ -1,0 +1,2 @@
+I have no control over these websites that are in this folder, so hopefully they arent blocked.
+If you find a game here that is blocked that you found on a gh repo or similar, consider sending a email to simon@simpansoftware.cc and the link to the repo here and i'll try to unblock it. / Simon
