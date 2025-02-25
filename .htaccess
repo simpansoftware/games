@@ -1,4 +1,0 @@
-AuthUserFile .htpasswd
-AuthType Basic
-AuthName "lösen: falken användarnamn: falken"
-Require valid-user
